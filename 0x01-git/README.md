@@ -1,1 +1,1 @@
-README of git
+git pull
